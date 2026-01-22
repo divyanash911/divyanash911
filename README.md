@@ -8,7 +8,7 @@
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-<div style="overflow: auto;">
+<!-- <div style="overflow: auto;">
   <img 
     src="https://github.com/divyanash911/readme/blob/main/naruto.jpg"
     alt="About me illustration"
@@ -26,7 +26,25 @@
     <li> 🎮 I love to play indie games, watch anime and read books.</li>
     <li> 📫 How to reach me: <b>divyansh.pandey@students.iiit.ac.in</b></li>
   </ul>
-</div>
+</div> -->
+
+<table>
+<tr>
+<td width="70%">
+
+- 📺 Final year undergraduate Researcher at SERC, IIIT-Hyderabad  
+- 🔭 I’m currently working on self-adaptation of multi-agentic systems  
+- 🎮 I love to play indie games, watch anime and read books  
+- 📫 How to reach me: **divyansh.pandey@students.iiit.ac.in**
+
+</td>
+<td width="30%" align="center">
+
+<img src="https://github.com/divyanash911/readme/blob/main/naruto.jpg" width="180"/>
+
+</td>
+</tr>
+</table>
 
 <!-- <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
