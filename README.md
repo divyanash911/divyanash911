@@ -1,7 +1,7 @@
 
 <h1 align="center">💠  𝘐'𝘮 Divyansh! 💠</h1>
 <div align="center">
-  <img width="720" height="auto" src=luffy.gif>
+  <img width="720" height="auto" src=https://github.com/divyanash911/readme/blob/main/luffy.gif>
 </div>
 
 <br>
@@ -65,7 +65,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
   </a>
   <br>
-  <img src=pain.gif width="400" height="auto">
+  <img src= "https://github.com/divyanash911/readme/blob/main/pain.gif" width="400" height="auto">
 </div>
 
 <h1 align="center"></h1>
