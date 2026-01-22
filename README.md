@@ -10,7 +10,7 @@
 
 <div style="overflow: auto;">
   <img 
-    src="ttps://github.com/divyanash911/readme/blob/main/naruto.jpg"
+    src="https://github.com/divyanash911/readme/blob/main/naruto.jpg"
     alt="About me illustration"
     style="
       float: right;
