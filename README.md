@@ -8,12 +8,25 @@
 
 <h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-<ul>
-  <li> 📺 Final year undergraduate Researcher at SERC, IIIT-Hyderabad</b></li>
-  <li> 🔭 I’m currently working on self-adaptation of multi-agentic systems</li>
-  <li> 🎮 I love to play indie games, watch anime and read books.</b></li>
-  <li> 📫 How to reach me: <b>divyansh.pandey@students.iiit.ac.in</b></li>
-</ul>
+<div style="overflow: auto;">
+  <img 
+    src="ttps://github.com/divyanash911/readme/blob/main/naruto.jpg"
+    alt="About me illustration"
+    style="
+      float: right;
+      width: 180px;
+      margin-left: 20px;
+      border-radius: 12px;
+    "
+  />
+
+  <ul>
+    <li> 📺 Final year undergraduate Researcher at SERC, IIIT-Hyderabad</li>
+    <li> 🔭 I’m currently working on self-adaptation of multi-agentic systems</li>
+    <li> 🎮 I love to play indie games, watch anime and read books.</li>
+    <li> 📫 How to reach me: <b>divyansh.pandey@students.iiit.ac.in</b></li>
+  </ul>
+</div>
 
 <!-- <div align="center">
     <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
