@@ -28,7 +28,7 @@
   </ul>
 </div> -->
 
-<table>
+<table align="center">
 <tr align="center">
 <td width="70%">
 
