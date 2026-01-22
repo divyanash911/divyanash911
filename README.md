@@ -1,25 +1,75 @@
-<h1 align="center">Hi 👋, I'm Divyansh</h1>
-<h3 align="center">A passionate coder working on projects based on both frontend and backend</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=divyanash911&label=Profile%20views&color=0e75b6&style=flat" alt="divyanash911" /> </p>
+<h1 align="center">💠  𝘐'𝘮 Divyansh! 💠</h1>
+<div align="center">
+  <img width="720" height="auto" src=luffy.gif>
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanash911" alt="divyanash911" /></a> </p>
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/divyanash911](https://github.com/divyanash911)
+<h1 align="center">𝗔𝗕𝗢𝗨𝗧 𝗠𝗘</h1>
 
-- 📫 How to reach me **divyansh.pandey@students.iiit.ac.in**
+<ul>
+  <li> 📺 Final year undergraduate Researcher at SERC, IIIT-Hyderabad</b></li>
+  <li> 🔭 I’m currently working on self-adaptation of multi-agentic systems</li>
+  <li> 🎮 I love to play indie games, watch anime and read books.</b></li>
+  <li> 📫 How to reach me: <b>divyansh.pandey@students.iiit.ac.in</b></li>
+</ul>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/divyansh-pandey-41821a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/divyansh-pandey-41821a254/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/akat_sooki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/dp911" height="30" width="40" /></a>
-</p>
+<!-- <div align="center">
+    <h1 align="center">𝗟𝗜𝗦𝗧𝗘𝗡𝗜𝗡𝗚 𝗧𝗢</h1>
+    <a href="https://open.spotify.com/user/gha15e1jizot0mf1ucn64iitn?si=c718454a09cd4d62"><img width="720" height="auto" src="https://novatorem2-nu.vercel.app/api/spotify?background_color=0d1117&border_color=FFA2FE" alt="Divyansh's Spotify Currently Playing" target="_blank" class="auto" rel="noopener noreferrer"/></a>
+</div> -->
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanash911&show_icons=true&locale=en&layout=compact" alt="divyanash911" /></p>
+<!-- <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=divyanash911&show_icons=true&locale=en" alt="divyanash911" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=divyanash911&" alt="divyanash911" /></p>
+<div>
+<h1 align="center">𝗞𝗡𝗢𝗪𝗟𝗘𝗗𝗚𝗘</h1>
+</div>
+<div align="center">
+  <p align = "center">An entry-level Microsoft adminstrator in college watching out for clients with my experience in MS/O365 cloud apps and endpoint management via Intune.<br></p>
+  <p align = "center">
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Adobe_Creative_Cloud-DA1F26?style=flat-square&logo=Adobe-Creative-Cloud&logoColor=white" alt="Adobe Creative Cloud" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=Android&logoColor=black" alt="Android" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Apple-999999?style=flat-square&logo=Apple&logoColor=white" alt="Apple" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" alt="Github" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Google-4285F4?style=flat-square&logo=Google&logoColor=white" alt="Google" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Azure-0089D6?style=flat-square&logo=Microsoft-Azure&logoColor=white" alt="Azure" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Exchange-0078D4?style=flat-square&logo=Microsoft-Exchange&logoColor=white" alt="Exchange" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_OneDrive-0078D4?style=flat-square&logo=Microsoft-OneDrive&logoColor=white" alt="OneDrive" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Outlook-0078D4?style=flat-square&logo=Microsoft-Outlook&logoColor=white" alt="Outlook" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_SharePoint-038387?style=flat-square&logo=Microsoft-SharePoint&logoColor=white" alt="SharePoint" height="30" />
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Microsoft_Teams-6264A7?style=flat-square&logo=Microsoft-Teams&logoColor=white" alt="Teams" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&logo=PowerShell&logoColor=white" alt="PowerShell" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows_Terminal-4D4D4D?style=flat-square&logo=Windows-Terminal&logoColor=white" alt="CommandPrompt" height="30" />  
+    <img style="margin: 5px" src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" alt="Windows" height="30" />
+  </p>
+  <img src = "Add-ons/AS.gif" width = "460px" height="auto" align="center">
+</div> -->
+
+<br>
+
+<h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=divyanash911" alt="divyanash911" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=divyanash911&label=Profile%20views&color=0e75b6&style=flat" alt="divyanash911" /> </p>
+
+<br>
+
+<h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
+<div align="center">
+  <a href="https://www.linkedin.com/in/divyansh-pandey-41821a254/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer">
+  </a>
+  <a href="https://github.com/divyanash911">
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white'" target="_blank" rel="noopener noreferrer">
+  </a>
+  <br>
+  <img src=pain.gif width="400" height="auto">
+</div>
+
+<h1 align="center"></h1>
+
+<!-- [![@j0shbl0ck's Holopin board](https://holopin.me/j0shbl0ck)](https://holopin.io/@j0shbl0ck) -->
+
+              
