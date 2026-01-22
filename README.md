@@ -51,9 +51,10 @@
 <br>
 
 <h1 align="center">𝗦𝗧𝗔𝗧𝗦</h1>
-<p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=divyanash911&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="divyanash911" /></a> </p>
-<p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanash911&theme=radical&hide_border=true" alt="divyanash911" /> </p>
-
+<!-- <p align="center"> <a href="https://github-readme-stats.vercel.app/api?username=divyanash911&theme=radical&show_icons=true&hide_border=true&count_private=true" alt="divyanash911" /></a> </p> -->
+<!-- <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyanash911&theme=radical&hide_border=true" alt="divyanash911" /> </p> -->
+![divyanash911's Stats](https://github-readme-stats.vercel.app/api?username=divyanash911&theme=radical&show_icons=true&hide_border=true&count_private=true)
+![divyanash911's Streak](https://github-readme-streak-stats.herokuapp.com/?user=divyanash911&theme=radical&hide_border=true)
 <br>
 
 <h1 align="center">𝗦𝗢𝗖𝗜𝗔𝗟𝗦</h1>
