@@ -29,7 +29,7 @@
 </div> -->
 
 <table align="center">
-<tr align="center">
+<tr>
 <td width="70%">
 
 - 📺 Final year undergraduate Researcher at SERC, IIIT-Hyderabad  
